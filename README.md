@@ -1,3 +1,8 @@
+This fork of smessmer/gitversion is intended for Plexus project development - the branches and repos in general may come down at any time it suits our needs - OS developers that find there way to this repository, BEWARE!!
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # git-version [![Build Status](https://travis-ci.org/smessmer/gitversion.svg?branch=master)](https://travis-ci.org/smessmer/gitversion)
 Make git version information (e.g. git tag name, git commit id, ...) available to your source files.
 A simple use case scenario is to output this version information when the application is called with "--version".
